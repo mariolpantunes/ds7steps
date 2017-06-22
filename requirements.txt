@@ -1,3 +1,6 @@
 numpy>=1.13.0
 scipy>=0.18.1
 scikit-learn>=0.9
+tweepy>=3.3.0
+matplotlib>=2.0.2
+liac-arff>=2.1.1
